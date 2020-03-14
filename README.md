@@ -1,4 +1,4 @@
-# CapcomHackathon-osaka007
+# BooMass
 
 実行動画:
 
