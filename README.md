@@ -1,6 +1,8 @@
 # CapcomHackathon-osaka007
 
-実行動画：https://youtu.be/FXOrw58cOf8
+実行動画:
+
+[![Alt text](https://img.youtube.com/vi/FXOrw58cOf8/0.jpg)](https://www.youtube.com/watch?v=FXOrw58cOf8)
 
 今年１月に大阪でカプコンのハッカソンインターンで僕を含めて四人の学生が48時間で作ったゲーム「BooMass」です。
 今回のキーワードは「運ぶ」でになって、私達のチームはテーマを「爆弾を運ぶ」にしました。
